@@ -1,11 +1,14 @@
 table
 {
+    background-color: rgb(82, 0, 78);
     padding: 5px;
     border-style: solid;
+    border-color: aqua;
     border-collapse: collapse;
 }
 td,th
 {
+    border-color: aqua;
     padding: 5px;
     border-style: solid;
 }
@@ -20,4 +23,9 @@ td
 caption
 {
     border: 10px;
+}
+body
+{
+    color: aqua;
+    background-color: rgb(61, 14, 14);
 }
